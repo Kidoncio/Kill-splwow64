@@ -6,7 +6,7 @@
 '
 ' AUTHOR: Dave DeCoursey , Major Electric Supply, Inc.
 ' CREATE AT  : 5/7/2009
-' MODIFY AT  : 26/04/2017 BY Lucas do Nascimento
+' MODIFIED ON  : 26/04/2017 BY Lucas do Nascimento
 '
 ' COMMENT: This will check a process and if it's using a certain amount of processor
 '			percentage for over 1 minute, it will terminate the process
