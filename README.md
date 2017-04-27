@@ -1,4 +1,7 @@
 # Kill-splwow64
+
+![Consumo de Memria - Splwow64.exe](http://www.compuchenna.co.uk/wp-content/uploads/2016/05/splwow64-exe.jpg)
+
 ## Splwow64.exe process doesn't end
 
 Devido a dificuldades encontradas com o splwow64.exe, onde o mesmo não encerra e continua consumindo memória e, consequentemente, prejudicando o desempenho da máquina.
