@@ -8,6 +8,8 @@ Devido a dificuldades encontradas com o splwow64.exe, onde o mesmo não encerra 
 
 Nenhum dos hotfixes disponibilizados pela Microsoft foram capazes de tratar essa dificuldade. Sendo assim, esse script é específico para máquinas Windows que possuem uma única finalidade de servir como servidor para impressão.
 
+Caso a sua máquina seja exclusivamente utilizada para imprimir, recomendo que seja colocado um Windows 32 bits, ou entao mudar para o sistema operacional Linux.
+
 
 ## Como fazer
 
